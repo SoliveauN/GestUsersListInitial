@@ -1,0 +1,5 @@
+<?xml version='1.0' ?>
+<users>
+<user><prenom>Nicolas</prenom><nom>Soliveau</nom><uid>nsoliveau</uid><pw>123</pw></user>
+<user><prenom>prenom1</prenom><nom>nom1</nom><uid>prenom1nom1</uid><pw>123</pw></user>
+</users>
